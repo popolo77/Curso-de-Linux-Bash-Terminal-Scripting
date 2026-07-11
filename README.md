@@ -12,7 +12,7 @@
 *Usa los checkboxes para marcar tus clases completadas, apuntes tomados y desafíos resueltos.*
 
 ### 🛠️ Bloque 1: Configuración Inicial
-- [x ] **1 - Shell, Terminal y Bash** 📄 _[Apuntes]_
+- [x] **1 - Shell, Terminal y Bash** 📄 _[Apuntes]_
 - [ ] **2 - Historia de Bash** 📄 _[Apuntes]_
 - [ ] **3 - Bash en Windows** 📄 _[Apuntes]_
 - [ ] **4 - Warp Terminal** 📄 _[Apuntes]_
