@@ -13,9 +13,9 @@
 
 ### 🛠️ Bloque 1: Configuración Inicial
 - [x] **1 - Shell, Terminal y Bash** 📄 _[Apuntes]_
-- [ ] **2 - Historia de Bash** 📄 _[Apuntes]_
-- [ ] **3 - Bash en Windows** 📄 _[Apuntes]_
-- [ ] **4 - Warp Terminal** 📄 _[Apuntes]_
+- [x] **2 - Historia de Bash** 📄 _[Apuntes]_
+- [x] **3 - Bash en Windows** 📄 _[Apuntes]_
+- [x] **4 - Warp Terminal** 📄 _[Apuntes]_
 
 ### 🚀 Bloque 2: Primeros Pasos en la Consola
 - [ ] **5 - Hola Mundo** 📄 _[Apuntes]_
