@@ -11,11 +11,12 @@
 
 *Usa los checkboxes para marcar tus clases completadas, apuntes tomados y desafíos resueltos.*
 
-### 🛠️ Bloque 1: Configuración Inicial
-- [x] **1 - Shell, Terminal y Bash** 📄 _[Apuntes]_
-- [ ] **2 - Historia de Bash** 📄 _[Apuntes]_
-- [ ] **3 - Bash en Windows** 📄 _[Apuntes]_
-- [ ] **4 - Warp Terminal** 📄 _[Apuntes]_
+## 🛠️ Bloque 1: Configuración Inicial
+
+- [x] *1 - Shell, Terminal y Bash* 📄 *[[Configuracion](01-Configuracion/README.md)]*
+- [x] *2 - Historia de Bash* 📄 *[[Apuntes](01-Configuracion/README.md#2---historia-de-bash)]*
+- [x] *3 - Bash en Windows* 📄 *[[Apuntes](01-Configuracion/README.md#3---bash-en-windows)]*
+- [x] *4 - Warp Terminal* 📄 *[[Apuntes](01-Configuracion/README.md#4---warp-terminal)]*
 
 ### 🚀 Bloque 2: Primeros Pasos en la Consola
 - [ ] **5 - Hola Mundo** 📄 _[Apuntes]_
