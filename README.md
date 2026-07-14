@@ -19,14 +19,15 @@
 - [x] **4 - Warp Terminal** 📄 [[Apuntes](01-Configuracion/README.md#4---warp-terminal)]
 
 ### 🚀 Bloque 2: Primeros Pasos en la Consola
-- [x] **5 - Hola Mundo** 📄[[Apuntes](02-Primeros-Pasos/ejercicios/README.md)]
-- [x] **6 - Comandos de orientación** 📄 _[Apuntes]_
-- [x] **7 - Comandos de navegación** 📄 _[Apuntes]_
-- [x] **8 - Ruta absoluta y relativa** 📄 _[Apuntes]_
-- [x] **9 - Otros comandos básicos** 📄 _[Apuntes]_
-- [x] **10 - Anatomía del comando** 📄 _[Apuntes]_
-- [x] **11 - Ayuda y documentación** 📄 _[Apuntes]_
-- [x] **12 - Laboratorio:** Práctica de Primeros Pasos 🏋️‍♂️ _[Ejercicios]_
+
+- [x] ***5 - Hola Mundo*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#5---hola-mundo)]
+- [x] ***6 - Comandos de orientación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#6---comandos-de-orientacion)]
+- [x] ***7 - Comandos de navegación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#7---comandos-de-navegacion)]
+- [x] ***8 - Ruta absoluta y relativa*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#8---ruta-absoluta-y-relativa)]
+- [x] ***9 - Otros comandos básicos*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#9---otros-comandos-basicos-informacion-del-sistema)]
+- [x] ***10 - Anatomía del comando*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#10---anatomia-del-comando)]
+- [x] ***11 - Ayuda y documentación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#11---ayuda-y-documentacion)]
+- [x] ***12 - Laboratorio:*** Práctica de Primeros Pasos 🏋️‍♂️ [[Ejercicios](02-Primeros-Pasos/ejercicios/README.md)]
 
 ### 📁 Bloque 3: Gestión de Archivos y Directorios
 - [ ] **13 - Sistema de archivos Unix** 📄 _[Apuntes]_
