@@ -19,7 +19,7 @@
 - [x] **4 - Warp Terminal** 📄 [[Apuntes](01-Configuracion/README.md#4---warp-terminal)]
 
 ### 🚀 Bloque 2: Primeros Pasos en la Consola
-- [x] **5 - Hola Mundo** 📄[[Apuntes]02-Primeros-Pasos/ejercicios/README.md)]
+- [x] **5 - Hola Mundo** 📄[[Apuntes](2-Primeros-Pasos/ejercicios/README.md)]
 - [x] **6 - Comandos de orientación** 📄 _[Apuntes]_
 - [x] **7 - Comandos de navegación** 📄 _[Apuntes]_
 - [x] **8 - Ruta absoluta y relativa** 📄 _[Apuntes]_
