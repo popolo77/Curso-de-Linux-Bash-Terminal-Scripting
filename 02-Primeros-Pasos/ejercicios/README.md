@@ -1,6 +1,3 @@
-¡Qué gran sesión de práctica en Git Bash (MINGW64) de Windows! Pasaste por casi todo el temario del bloque. Se nota que estuviste navegando, listando en detalle, buscando manuales, rebotando contra comandos no encontrados (como `man` y `cal` que no vienen por defecto en Git Bash, ¡un clásico!) y probando la ayuda de `ls` y `cd`.
-
-Acá tenés el **README de tu práctica** estructurado, limpio y detallado con la explicación de cada paso que diste en tu terminal. Lo podés guardar como `README.md` dentro de tu carpeta `02-Primeros-Pasos/ejercicios/` (o donde guardes tus resoluciones).
 
 ---
 
@@ -162,4 +159,3 @@ $ clear
 
 ---
 
-¿Qué te parece cómo quedó registrado? Si ya querés ir avanzando con el **Bloque 3 (Gestión de Archivos y Directorios)** para aprender a crear, copiar y borrar cosas, metele play al video y pasame lo que vayas escribiendo en la terminal.
