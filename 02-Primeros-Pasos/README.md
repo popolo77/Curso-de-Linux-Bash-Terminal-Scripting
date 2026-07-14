@@ -27,7 +27,7 @@ El clásico punto de partida. En Bash, utilizamos el comando `echo` para imprimi
 
 ---
 
-## 🔍 6 - Comandos de Orientación
+## 🔍 6 - Comandos de orientación
 
 Sirven para saber exactamente en qué parte de la estructura de directorios nos encontramos y ver qué hay a nuestro alrededor.
 
@@ -57,7 +57,7 @@ Lista los archivos y carpetas del directorio actual.
 
 ---
 
-## 🚀 7 - Comandos de Navegación
+## 🚀 7 - Comandos de navegación
 
 Nos permiten movernos físicamente entre las distintas carpetas de nuestro sistema con `cd` (Change Directory).
 
@@ -78,18 +78,18 @@ Nos permiten movernos físicamente entre las distintas carpetas de nuestro siste
 
 ---
 
-## 📍 8 - Ruta Absoluta y Relativa
+## 📍 8 - Ruta absoluta y relativa
 
 Es vital entender la diferencia de cómo le indicamos al sistema a dónde queremos ir.
 
 * **Ruta Relativa:** Se calcula desde la carpeta **donde estás parado actualmente**. No empieza con una barra diagonal `/`.
-    * *Ejemplo:* Si estás en `/root` y querés ir a `/root/curso`, simplemente escribís: `cd curso`.
+    * *Ejemplo:* Si estás en `/root` andá a `/root/curso`, simplemente escribís: `cd curso`.
 * **Ruta Absoluta:** Es la ruta completa **desde la raíz del disco duro**. Siempre comienza con una barra diagonal `/` (que representa la raíz del sistema).
     * *Ejemplo:* No importa dónde estés parado, si escribís: `cd /root/curso`, te llevará directamente allí.
 
 ---
 
-## 🛠️ 9 - Otros Comandos Básicos (Información del Sistema)
+## 🛠️ 9 - Otros comandos básicos
 
 Comandos rápidos para obtener metadatos de nuestra sesión, máquina o sistema actual.
 
@@ -119,7 +119,7 @@ Comandos rápidos para obtener metadatos de nuestra sesión, máquina o sistema 
 
 ---
 
-## 🧬 10 - Anatomía del Comando
+## 🧬 10 - Anatomia del comando
 
 Casi todos los comandos en sistemas Unix y Bash siguen una estructura estándar de tres componentes:
 
@@ -133,7 +133,7 @@ $$\text{Comando} + \text{Opción/es} + \text{Argumento/s}$$
 
 ---
 
-## 📚 11 - Ayuda y Documentación
+## 📚 11 - Ayuda y documentacion
 
 No hace falta memorizarlo todo. Bash ofrece herramientas nativas para saber cómo usar cualquier comando.
 
