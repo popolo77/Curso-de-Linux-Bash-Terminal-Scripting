@@ -19,14 +19,14 @@
 - [x] **4 - Warp Terminal** 📄 [[Apuntes](01-Configuracion/README.md#4---warp-terminal)]
 
 ### 🚀 Bloque 2: Primeros Pasos en la Consola
-- [ ] **5 - Hola Mundo** 📄 _[Apuntes]_
-- [ ] **6 - Comandos de orientación** 📄 _[Apuntes]_
-- [ ] **7 - Comandos de navegación** 📄 _[Apuntes]_
-- [ ] **8 - Ruta absoluta y relativa** 📄 _[Apuntes]_
-- [ ] **9 - Otros comandos básicos** 📄 _[Apuntes]_
-- [ ] **10 - Anatomía del comando** 📄 _[Apuntes]_
-- [ ] **11 - Ayuda y documentación** 📄 _[Apuntes]_
-- [ ] **12 - Laboratorio:** Práctica de Primeros Pasos 🏋️‍♂️ _[Ejercicios]_
+- [x] **5 - Hola Mundo** 📄[[Apuntes]02-Primeros-Pasos/ejercicios/README.md)]
+- [x] **6 - Comandos de orientación** 📄 _[Apuntes]_
+- [x] **7 - Comandos de navegación** 📄 _[Apuntes]_
+- [x] **8 - Ruta absoluta y relativa** 📄 _[Apuntes]_
+- [x] **9 - Otros comandos básicos** 📄 _[Apuntes]_
+- [x] **10 - Anatomía del comando** 📄 _[Apuntes]_
+- [x] **11 - Ayuda y documentación** 📄 _[Apuntes]_
+- [x] **12 - Laboratorio:** Práctica de Primeros Pasos 🏋️‍♂️ _[Ejercicios]_
 
 ### 📁 Bloque 3: Gestión de Archivos y Directorios
 - [ ] **13 - Sistema de archivos Unix** 📄 _[Apuntes]_
