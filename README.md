@@ -24,7 +24,7 @@
 - [x] ***6 - Comandos de orientación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#6---comandos-de-orientacion)]
 - [x] ***7 - Comandos de navegación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#7---comandos-de-navegacion)]
 - [x] ***8 - Ruta absoluta y relativa*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#8---ruta-absoluta-y-relativa)]
-- [x] ***9 - Otros comandos básicos*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#9---otros-comandos-basicos-informacion-del-sistema)]
+- [x] ***9 - Otros comandos básicos*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#9---otros-comandos-basicos)]
 - [x] ***10 - Anatomía del comando*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#10---anatomia-del-comando)]
 - [x] ***11 - Ayuda y documentación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#11---ayuda-y-documentacion)]
 - [x] ***12 - Laboratorio:*** Práctica de Primeros Pasos 🏋️‍♂️ [[Ejercicios](02-Primeros-Pasos/ejercicios/README.md)]
