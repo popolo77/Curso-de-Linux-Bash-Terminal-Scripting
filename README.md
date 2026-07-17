@@ -30,11 +30,11 @@
 - [x] ***12 - Laboratorio:*** Práctica de Primeros Pasos 🏋️‍♂️ [[Ejercicios](02-Primeros-Pasos/ejercicios/README.md)]
 
 ### 📁 Bloque 3: Gestión de Archivos y Directorios
-- [ ] **13 - Sistema de archivos Unix** 📄 _[Apuntes]_
-- [ ] **14 - Manipulación de archivos y directorios** 📄 _[Apuntes]_
-- [ ] **15 - Wildcards (Comodines)** 📄 _[Apuntes]_
-- [ ] **16 - Listados avanzados** 📄 _[Apuntes]_
-- [ ] **17 - Laboratorio:** Práctica de Gestión de Archivos 🏋️‍♂️ _[Ejercicios]_
+- [x] **13 - Sistema de archivos Unix** 📄 _[Apuntes]_
+- [x] **14 - Manipulación de archivos y directorios** 📄 _[Apuntes]_
+- [x] **15 - Wildcards (Comodines)** 📄 _[Apuntes]_
+- [x] **16 - Listados avanzados** 📄 _[Apuntes]_
+- [x] **17 - Laboratorio:** Práctica de Gestión de Archivos 🏋️‍♂️ _[Ejercicios]_
 
 ### 🔧 Bloque 4: Comandos Avanzados y Flujos
 - [ ] **18 - Lectura de archivos** 📄 _[Apuntes]_
