@@ -38,11 +38,12 @@
 - [x] **17 - Laboratorio:** Práctica de Gestión de Archivos 🏋️‍♂️ [[Ejercicios](03-Gestion-Archivos/ejercicios/README.md)]
 
 ### 🔧 Bloque 4: Comandos Avanzados y Flujos
-- [ ] **18 - Lectura de archivos** 📄 _[Apuntes]_
-- [ ] **19 - Búsqueda y recuento** 📄 _[Apuntes]_
-- [ ] **20 - Redirecciones y Pipes (Tuberías)** 📄 _[Apuntes]_
-- [ ] **21 - Variables de entorno** 📄 _[Apuntes]_
-- [ ] **22 - Laboratorio:** Práctica de Comandos Avanzados 🏋️‍♂️ _[Ejercicios]_
+
+- [x] **18 - Lectura de archivos** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#18---lectura-de-archivos)]
+- [x] **19 - Búsqueda y recuento** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#19---busqueda-y-recuento)]
+- [x] **20 - Redirecciones y Pipes (Tuberías)** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#20---redirecciones-y-pipes-tuberias)]
+- [x] **21 - Variables de entorno** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#21---variables-de-entorno)]
+- [x] **22 - Laboratorio:** Práctica de Comandos Avanzados 🏋️‍♂️ [[Ejercicios](04-Comandos-Avanzados/ejercicios/README.md)]
 
 ### 📝 Bloque 5: Editores de Texto en Terminal
 - [ ] **23 - Introducción a editores básicos** 📄 _[Apuntes]_
