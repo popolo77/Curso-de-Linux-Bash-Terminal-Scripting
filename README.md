@@ -30,11 +30,12 @@
 - [x] ***12 - Laboratorio:*** Práctica de Primeros Pasos 🏋️‍♂️ [[Ejercicios](02-Primeros-Pasos/ejercicios/README.md)]
 
 ### 📁 Bloque 3: Gestión de Archivos y Directorios
-- [x] **13 - Sistema de archivos Unix** 📄 _[Apuntes]_
-- [x] **14 - Manipulación de archivos y directorios** 📄 _[Apuntes]_
-- [x] **15 - Wildcards (Comodines)** 📄 _[Apuntes]_
-- [x] **16 - Listados avanzados** 📄 _[Apuntes]_
-- [x] **17 - Laboratorio:** Práctica de Gestión de Archivos 🏋️‍♂️ _[Ejercicios]_
+
+- [x] **13 - Sistema de archivos Unix** 📄 [[Apuntes](03-Gestion-Archivos/README.md#13---sistema-de-archivos-unix)]
+- [x] **14 - Manipulación de archivos y directorios** 📄 [[Apuntes](03-Gestion-Archivos/README.md#14---manipulacion-de-archivos-y-directorios)]
+- [x] **15 - Wildcards (Comodines)** 📄 [[Apuntes](03-Gestion-Archivos/README.md#15---wildcards-comodines)]
+- [x] **16 - Listados avanzados** 📄 [[Apuntes](03-Gestion-Archivos/README.md#16---listados-avanzados)]
+- [x] **17 - Laboratorio:** Práctica de Gestión de Archivos 🏋️‍♂️ [[Ejercicios](03-Gestion-Archivos/ejercicios/README.md)]
 
 ### 🔧 Bloque 4: Comandos Avanzados y Flujos
 - [ ] **18 - Lectura de archivos** 📄 _[Apuntes]_
