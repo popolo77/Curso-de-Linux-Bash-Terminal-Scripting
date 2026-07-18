@@ -1,4 +1,3 @@
-Markdown
 # 🏋️‍♂️ Ejercicios: Editores de Texto en Terminal
 
 Registro de comandos y pasos utilizados para resolver el laboratorio del Bloque 5 interactuando con los editores nativos.
