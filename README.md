@@ -46,11 +46,12 @@
 - [x] **22 - Laboratorio:** Práctica de Comandos Avanzados 🏋️‍♂️ [[Ejercicios](04-Comandos-Avanzados/ejercicios/README.md)]
 
 ### 📝 Bloque 5: Editores de Texto en Terminal
-- [ ] **23 - Introducción a editores básicos** 📄 _[Apuntes]_
-- [ ] **24 - Nano** 📄 _[Apuntes]_
-- [ ] **25 - Vim** 📄 _[Apuntes]_
-- [ ] **26 - Otros editores (Neovim / Emacs)** 📄 _[Apuntes]_
-- [ ] **27 - Laboratorio:** Práctica de Editores Básicos 🏋️‍♂️ _[Ejercicios]_
+
+- [x] **23 - Introducción a editores básicos** 📄 [[Apuntes](05-Editores-Basicos/README.md#23---introduccion-a-editores-basicos)]
+- [x] **24 - Nano** 📄 [[Apuntes](05-Editores-Basicos/README.md#24---nano)]
+- [x] **25 - Vim (Vi Improved)** 📄 [[Apuntes](05-Editores-Basicos/README.md#25---vim-vi-improved)]
+- [x] **26 - Otros editores (Neovim / Emacs)** 📄 [[Apuntes](05-Editores-Basicos/README.md#26---otros-editores-neovim--emacs)]
+- [x] **27 - Laboratorio:** Práctica de Editores de Texto 🏋️‍♂️ [[Ejercicios](05-Editores-Basicos/ejercicios/README.md)]
 
 ### 🛡️ Bloque 6: Administración del Sistema y Permisos
 - [ ] **28 - Tipos de permiso y usuarios** 📄 _[Apuntes]_
