@@ -1,4 +1,3 @@
-Markdown
 # 📝 Bloque 5: Editores de Texto en Terminal
 
 En este bloque aprendemos a crear y modificar archivos directamente desde la línea de comandos sin depender de una interfaz gráfica, una habilidad clave para administrar servidores o editar archivos de forma rápida.
