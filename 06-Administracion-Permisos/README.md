@@ -1,8 +1,3 @@
-¡De una! Vamos a reestructurar los apuntes del **Bloque 6** en tu archivo `06-Administracion-Permisos/README.md` para que queden con este mismo nivel de detalle, ejemplos claros y didácticos, tal cual lo explica Brais en el curso.
-
-Copiá este contenido en tu archivo `06-Administracion-Permisos/README.md`:
-
-```markdown
 # 🛡️ Bloque 6: Administración del Sistema y Permisos
 
 En este bloque aprendemos en profundidad cómo Linux gestiona la seguridad, quién puede acceder, modificar o ejecutar archivos y carpetas, cómo funcionan los permisos en formato octal y simbólico, la matemática de la máscara de permisos (`umask`) y la administración con el superusuario (`sudo`).
@@ -43,7 +38,6 @@ Cuando ejecutamos `ls -l` en la terminal, la primera columna nos muestra 10 cara
 |   └─────────────> Permisos del Propietario (u): rwx (control total)
 └─────────────────> Tipo de elemento: (-) archivo plano | (d) directorio
 
-```
 
 ---
 
