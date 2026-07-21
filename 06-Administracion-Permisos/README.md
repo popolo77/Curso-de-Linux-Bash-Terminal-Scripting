@@ -179,5 +179,5 @@ En Linux, el usuario **Root** es el administrador supremo con poder ilimitado pa
 
 > ⚠️ **Advertencia Didáctica:** Usar `sudo` implica saltarse todas las protecciones de permisos de Linux. Un comando destructivo como `sudo rm -rf /` borraría la totalidad del disco sin pedir confirmación.
 
-```
+
 
