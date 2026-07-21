@@ -54,12 +54,13 @@
 - [x] **27 - Laboratorio:** Práctica de Editores de Texto 🏋️‍♂️ [[Ejercicios](05-Editores-Basicos/ejercicios/README.md)]
 
 ### 🛡️ Bloque 6: Administración del Sistema y Permisos
-- [ ] **28 - Tipos de permiso y usuarios** 📄 _[Apuntes]_
-- [ ] **29 - Anatomía de los permisos (rwx)** 📄 _[Apuntes]_
-- [ ] **30 - Modificación de permisos (chmod/chown)** 📄 _[Apuntes]_
-- [ ] **31 - Máscara de permisos (umask)** 📄 _[Apuntes]_
-- [ ] **32 - Superusuario (sudo/su)** 📄 _[Apuntes]_
-- [ ] **33 - Laboratorio:** Práctica de Administración del Sistema 🏋️‍♂️ _[Ejercicios]_
+
+- [x] **28 - Tipos de permiso y usuarios** 📄 [[Apuntes](06-Administracion-Permisos/README.md#28---tipos-de-permisos-y-usuarios)]
+- [x] **29 - Anatomía de los permisos (rwx)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#29---anatomia-de-los-permisos-ls--l)]
+- [x] **30 - Modificación de permisos (chmod / chown)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#30---modificacion-de-permisos-chmod--chown)]
+- [x] **31 - Máscara de permisos (umask)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#31---mascara-de-permisos-umask)]
+- [x] **32 - Superusuario (sudo / su)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#32---superusuario-sudo--su)]
+- [x] **33 - Laboratorio:** Práctica de Permisos 🏋️‍♂️ [[Ejercicios](06-Administracion-Permisos/ejercicios/README.md)]
 
 ### ⚙️ Bloque 7: Gestión de Procesos y Atajos
 - [ ] **34 - Procesos del Sistema** 📄 _[Apuntes]_
