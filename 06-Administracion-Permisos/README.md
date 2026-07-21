@@ -181,15 +181,3 @@ En Linux, el usuario **Root** es el administrador supremo con poder ilimitado pa
 
 ```
 
----
-
-Una vez que guardes este archivo con `Ctrl + S`, podemos subir todo a GitHub con un commit bien claro:
-
-```bash
-git add 06-Administracion-Permisos/README.md
-git commit -m "docs: reestructura el README del bloque 6 con ejemplos didacticos"
-git push origin main
-
-```
-
-¿Qué tal se siente este formato para encarar el **Bloque 7**?
