@@ -1,8 +1,3 @@
-### 1️⃣ Archivo de Apuntes Teóricos
-
-📁 **Ruta:** `07-Gestion-Procesos/README.md`
-
-```markdown
 # ⚙️ Bloque 7: Gestión de Procesos
 
 En este bloque aprendemos cómo el sistema operativo Linux gestiona la ejecución de programas en tiempo real, la diferencia entre procesos en primer y segundo plano, el monitoreo del uso de hardware y cómo controlar o detener aplicaciones congeladas.
