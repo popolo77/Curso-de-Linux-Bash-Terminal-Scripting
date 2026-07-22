@@ -62,12 +62,13 @@
 - [x] **32 - Superusuario (sudo / su)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#32---superusuario-sudo--su)]
 - [x] **33 - Laboratorio:** Práctica de Permisos 🏋️‍♂️ [[Ejercicios](06-Administracion-Permisos/ejercicios/README.md)]
 
-### ⚙️ Bloque 7: Gestión de Procesos y Atajos
-- [ ] **34 - Procesos del Sistema** 📄 _[Apuntes]_
-- [ ] **35 - Trabajos en segundo plano (Jobs)** 📄 _[Apuntes]_
-- [ ] **36 - Historial de comandos** 📄 _[Apuntes]_
-- [ ] **37 - Creación de Alias personalizados** 📄 _[Apuntes]_
-- [ ] **38 - Laboratorio:** Práctica de Procesos y Alias 🏋️‍♂️ _[Ejercicios]_
+### ⚙️ Bloque 7: Gestión de Procesos
+
+- [x] **34 - Definición y estado de los procesos** 📄 [[Apuntes](07-Gestion-Procesos/README.md#34---definicion-y-estado-de-los-procesos)]
+- [x] **35 - Comandos de inspección (ps, top, htop)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#35---comandos-de-inspeccion-ps-top-htop)]
+- [x] **36 - Gestión y finalización de procesos (kill, killall)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#36---gestion-y-finalizacion-de-procesos-kill-killall)]
+- [x] **37 - Trabajos en primer y segundo plano (bg, fg, jobs, &)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#37---trabajos-en-primer-y-segundo-plano-bg-fg-jobs-)]
+- [x] **38 - Laboratorio:** Práctica de Procesos 🏋️‍♂️ [[Ejercicios](07-Gestion-Procesos/ejercicios/README.md)]
 
 ### 📜 Bloque 8: Introducción al Scripting
 - [ ] **39 - Fundamentos de Scripting** 📄 _[Apuntes]_
