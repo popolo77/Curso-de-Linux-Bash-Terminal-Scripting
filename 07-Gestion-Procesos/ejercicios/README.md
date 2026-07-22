@@ -1,3 +1,15 @@
+```
+
+---
+
+### 2️⃣ Archivo del Laboratorio Práctico
+📁 **Ruta:** `07-Gestion-Procesos/ejercicios/README.md`
+
+```markdown
+# 🏋️‍♂️ Ejercicios: Gestión de Procesos
+
+Registro de comandos y pasos utilizados para resolver el laboratorio práctico del Bloque 7.
+
 ## 📋 Enunciados del Bloque 7
 
 1. **Visualiza los procesos en ejecución de tu usuario.**
@@ -17,24 +29,35 @@
 1. **Visualizar procesos del usuario actual:**
    ```bash
    ps u
-  
-Monitoreo interactivo:
 
-Bash
+```
+
+2. **Monitoreo interactivo:**
+```bash
 top
-Acción: Se presionó M para ordenar por consumo de memoria RAM y luego q para salir.
 
-Ejecutar proceso en segundo plano:
+```
 
-Bash
+
+* *Acción:* Se presionó `M` para ordenar por consumo de memoria RAM y luego `q` para salir.
+
+
+3. **Ejecutar proceso en segundo plano:**
+```bash
 sleep 100 &
-Verificar el trabajo activo:
 
-Bash
+```
+
+
+4. **Verificar el trabajo activo:**
+```bash
 jobs
-Alternar entre primer y segundo plano:
 
-Bash
+```
+
+
+5. **Alternar entre primer y segundo plano:**
+```bash
 # Traer al primer plano
 fg %1
 
@@ -42,20 +65,34 @@ fg %1
 
 # Reanudar en segundo plano
 bg %1
-Finalizar proceso por PID:
 
-Bash
+```
+
+
+6. **Finalizar proceso por PID:**
+```bash
 # Consultar el PID
 ps aux | grep sleep
 
 # Terminar el proceso
 kill <NÚMERO_DE_PID>
-Crear múltiples instancias y cerrar con killall:
 
-Bash
+```
+
+
+7. **Crear múltiples instancias y cerrar con `killall`:**
+```bash
 sleep 300 &
 sleep 300 &
 sleep 300 &
 
 # Finalizar todas las instancias de sleep
 killall sleep
+
+```
+
+
+
+```
+
+```
