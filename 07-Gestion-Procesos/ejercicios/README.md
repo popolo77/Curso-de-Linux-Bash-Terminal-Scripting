@@ -1,7 +1,3 @@
-🏋️‍♂️ Ejercicios: Gestión de Procesos
-
-Registro de comandos y pasos utilizados para resolver el laboratorio práctico del Bloque 7.
-
 ## 📋 Enunciados del Bloque 7
 
 1. **Visualiza los procesos en ejecución de tu usuario.**
