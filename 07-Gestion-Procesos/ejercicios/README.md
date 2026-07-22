@@ -1,11 +1,3 @@
-```
-
----
-
-### 2️⃣ Archivo del Laboratorio Práctico
-📁 **Ruta:** `07-Gestion-Procesos/ejercicios/README.md`
-
-```markdown
 # 🏋️‍♂️ Ejercicios: Gestión de Procesos
 
 Registro de comandos y pasos utilizados para resolver el laboratorio práctico del Bloque 7.
