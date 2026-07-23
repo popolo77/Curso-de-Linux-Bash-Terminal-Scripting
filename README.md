@@ -70,14 +70,12 @@
 - [x] **37 - Trabajos en primer y segundo plano (bg, fg, jobs, &)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#37---trabajos-en-primer-y-segundo-plano-bg-fg-jobs-)]
 - [x] **38 - Laboratorio:** Práctica de Procesos 🏋️‍♂️ [[Ejercicios](07-Gestion-Procesos/ejercicios/README.md)]
 
-### 📜 Bloque 8: Introducción al Scripting
-- [ ] **39 - Fundamentos de Scripting** 📄 _[Apuntes]_
-- [ ] **40 - Lectura de datos interactiva (read)** 📄 _[Apuntes]_
-- [ ] **41 - Argumentos y parámetros posicionales** 📄 _[Apuntes]_
-- [ ] **42 - Laboratorio de Scripting** 📁 _[Código de Scripts desarrollados]_
-  * 📄 Archivo: `script.sh`
-  * 📄 Archivo: `read_script.sh`
-  * 📄 Archivo: `params_script.sh`
+## 📜 Bloque 8: Introducción al Scripting
+
+- [x] **39 - Fundamentos de Scripting** 📄 [[Apuntes](08-Scripting/README.md#39---fundamentos-de-scripting)]
+- [x] **40 - Lectura de datos interactiva (read)** 📄 [[Apuntes](08-Scripting/README.md#40---lectura-de-datos-interactiva-read)]
+- [x] **41 - Argumentos y parámetros posicionales** 📄 [[Apuntes](08-Scripting/README.md#41---argumentos-y-parámetros-posicionales)]
+- [x] **42 - Laboratorio de Scripting** 🏋️‍♂️ [[Ejercicios](08-Scripting/ejercicios/README.md)]
 
 ### 🧠 Bloque 9: Lógica de Programación en Bash
 - [ ] **43 - Estructuras Condicionales** 📄 _[Apuntes]_
