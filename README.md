@@ -9,94 +9,116 @@
 
 ## 📊 Panel de Progreso & Contenidos del Curso
 
-*Usa los checkboxes para marcar tus clases completadas, apuntes tomados y desafíos resueltos.*
+# 🐧 Curso COMPLETO de BASH, Linux Terminal & Scripting
 
-## 🛠️ Bloque 1: Configuración Inicial
-
-- [x] **1 - Shell, Terminal y Bash** 📄 [[Configuracion](01-Configuracion/README.md)]
-- [x] **2 - Historia de Bash** 📄 [[Apuntes](01-Configuracion/README.md#2---historia-de-bash)]
-- [x] **3 - Bash en Windows** 📄 [[Apuntes](01-Configuracion/README.md#3---bash-en-windows)]
-- [x] **4 - Warp Terminal** 📄 [[Apuntes](01-Configuracion/README.md#4---warp-terminal)]
-
-### 🚀 Bloque 2: Primeros Pasos en la Consola
-
-- [x] ***5 - Hola Mundo*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#5---hola-mundo)]
-- [x] ***6 - Comandos de orientación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#6---comandos-de-orientacion)]
-- [x] ***7 - Comandos de navegación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#7---comandos-de-navegacion)]
-- [x] ***8 - Ruta absoluta y relativa*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#8---ruta-absoluta-y-relativa)]
-- [x] ***9 - Otros comandos básicos*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#9---otros-comandos-basicos)]
-- [x] ***10 - Anatomía del comando*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#10---anatomia-del-comando)]
-- [x] ***11 - Ayuda y documentación*** 📄 [[Apuntes](02-Primeros-Pasos/README.md#11---ayuda-y-documentacion)]
-- [x] ***12 - Laboratorio:*** Práctica de Primeros Pasos 🏋️‍♂️ [[Ejercicios](02-Primeros-Pasos/ejercicios/README.md)]
-
-### 📁 Bloque 3: Gestión de Archivos y Directorios
-
-- [x] **13 - Sistema de archivos Unix** 📄 [[Apuntes](03-Gestion-Archivos/README.md#13---sistema-de-archivos-unix)]
-- [x] **14 - Manipulación de archivos y directorios** 📄 [[Apuntes](03-Gestion-Archivos/README.md#14---manipulacion-de-archivos-y-directorios)]
-- [x] **15 - Wildcards (Comodines)** 📄 [[Apuntes](03-Gestion-Archivos/README.md#15---wildcards-comodines)]
-- [x] **16 - Listados avanzados** 📄 [[Apuntes](03-Gestion-Archivos/README.md#16---listados-avanzados)]
-- [x] **17 - Laboratorio:** Práctica de Gestión de Archivos 🏋️‍♂️ [[Ejercicios](03-Gestion-Archivos/ejercicios/README.md)]
-
-### 🔧 Bloque 4: Comandos Avanzados y Flujos
-
-- [x] **18 - Lectura de archivos** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#18---lectura-de-archivos)]
-- [x] **19 - Búsqueda y recuento** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#19---busqueda-y-recuento)]
-- [x] **20 - Redirecciones y Pipes (Tuberías)** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#20---redirecciones-y-pipes-tuberias)]
-- [x] **21 - Variables de entorno** 📄 [[Apuntes](04-Comandos-Avanzados/README.md#21---variables-de-entorno)]
-- [x] **22 - Laboratorio:** Práctica de Comandos Avanzados 🏋️‍♂️ [[Ejercicios](04-Comandos-Avanzados/ejercicios/README.md)]
-
-### 📝 Bloque 5: Editores de Texto en Terminal
-
-- [x] **23 - Introducción a editores básicos** 📄 [[Apuntes](05-Editores-Basicos/README.md#23---introduccion-a-editores-basicos)]
-- [x] **24 - Nano** 📄 [[Apuntes](05-Editores-Basicos/README.md#24---nano)]
-- [x] **25 - Vim (Vi Improved)** 📄 [[Apuntes](05-Editores-Basicos/README.md#25---vim-vi-improved)]
-- [x] **26 - Otros editores (Neovim / Emacs)** 📄 [[Apuntes](05-Editores-Basicos/README.md#26---otros-editores-neovim--emacs)]
-- [x] **27 - Laboratorio:** Práctica de Editores de Texto 🏋️‍♂️ [[Ejercicios](05-Editores-Basicos/ejercicios/README.md)]
-
-### 🛡️ Bloque 6: Administración del Sistema y Permisos
-
-- [x] **28 - Tipos de permiso y usuarios** 📄 [[Apuntes](06-Administracion-Permisos/README.md#28---tipos-de-permisos-y-usuarios)]
-- [x] **29 - Anatomía de los permisos (rwx)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#29---anatomia-de-los-permisos-ls--l)]
-- [x] **30 - Modificación de permisos (chmod / chown)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#30---modificacion-de-permisos-chmod--chown)]
-- [x] **31 - Máscara de permisos (umask)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#31---mascara-de-permisos-umask)]
-- [x] **32 - Superusuario (sudo / su)** 📄 [[Apuntes](06-Administracion-Permisos/README.md#32---superusuario-sudo--su)]
-- [x] **33 - Laboratorio:** Práctica de Permisos 🏋️‍♂️ [[Ejercicios](06-Administracion-Permisos/ejercicios/README.md)]
-
-### ⚙️ Bloque 7: Gestión de Procesos
-
-- [x] **34 - Definición y estado de los procesos** 📄 [[Apuntes](07-Gestion-Procesos/README.md#34---definicion-y-estado-de-los-procesos)]
-- [x] **35 - Comandos de inspección (ps, top, htop)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#35---comandos-de-inspeccion-ps-top-htop)]
-- [x] **36 - Gestión y finalización de procesos (kill, killall)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#36---gestion-y-finalizacion-de-procesos-kill-killall)]
-- [x] **37 - Trabajos en primer y segundo plano (bg, fg, jobs, &)** 📄 [[Apuntes](07-Gestion-Procesos/README.md#37---trabajos-en-primer-y-segundo-plano-bg-fg-jobs-)]
-- [x] **38 - Laboratorio:** Práctica de Procesos 🏋️‍♂️ [[Ejercicios](07-Gestion-Procesos/ejercicios/README.md)]
-
-## 📜 Bloque 8: Introducción al Scripting
-
-- [x] **39 - Fundamentos de Scripting** 📄 [[Apuntes](08-Scripting/README.md#39---fundamentos-de-scripting)]
-- [x] **40 - Lectura de datos interactiva (read)** 📄 [[Apuntes](08-Scripting/README.md#40---lectura-de-datos-interactiva-read)]
-- [x] **41 - Argumentos y parámetros posicionales** 📄 [[Apuntes](08-Scripting/README.md#41---argumentos-y-parámetros-posicionales)]
-- [x] **42 - Laboratorio de Scripting** 🏋️‍♂️ [[Ejercicios](08-Scripting/ejercicios/README.md)]
-
-### 🧠 Bloque 9: Lógica de Programación en Bash
-- [ ] **43 - Estructuras Condicionales** 📄 _[Apuntes]_
-- [ ] **44 - Bucles e Iteraciones (for/while)** 📄 _[Apuntes]_
-- [ ] **45 - Funciones en Bash** 📄 _[Apuntes]_
-- [ ] **46 - Manejo básico de errores** 📄 _[Apuntes]_
-- [ ] **47 - Laboratorio de Lógica Avanzada** 📁 _[Código de Scripts desarrollados]_
-  * 📄 Archivo: `conditionals_script.sh`
-  * 📄 Archivo: `loops_script.sh`
-  * 📄 Archivo: `functions_script.sh`
-  * 📄 Archivo: `errors_script.sh`
-
-### ⏰ Bloque 10: Automatización con Cron Jobs
-- [ ] **48 - Planificación de tareas con Cron Jobs** 📄 _[Apuntes]_
-- [ ] **49 - Laboratorio:** Automatización y Crontab 🏋️‍♂️ _[Ejercicios]_
-
-### 🎁 Bloque 11: Extras y Próximos Pasos
-- [ ] **50 - Características avanzadas de Warp 2** 📄 _[Apuntes]_
-- [ ] **51 - Configuración y personalización de Zsh (Oh My Zsh)** 📄 _[Apuntes]_
+Repositorio con apuntes, comandos, prácticas y ejercicios resueltos del [Curso COMPLETO de BASH y la Terminal](https://www.youtube.com/watch?v=ABgLEKFhlZE) de **MoureDev (Brais Moure)**.
 
 ---
+
+## 🛠️ Configuración e Instalación
+
+- [x] **01 - Shell, Terminal y Bash** 📄 [[Apuntes](01-Configuracion/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=233s)]
+- [x] **02 - Historia de Bash** 📄 [[Apuntes](01-Configuracion/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=844s)]
+- [x] **03 - Bash en Windows (WSL)** 📄 [[Apuntes](01-Configuracion/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=1224s)]
+- [x] **04 - Terminal Warp** 📄 [[Apuntes](01-Configuracion/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=1630s)]
+
+---
+
+## 🚀 Primeros Pasos
+
+- [x] **05 - Hola Mundo** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=2190s)]
+- [x] **06 - Comandos de Orientación** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=2485s)]
+- [x] **07 - Comandos de Navegación** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=2934s)]
+- [x] **08 - Ruta Absoluta y Relativa** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=3463s)]
+- [x] **09 - Otros Comandos Básicos** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=3665s)]
+- [x] **10 - Anatomía del Comando** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=3878s)]
+- [x] **11 - Ayuda y Documentación** 📄 [[Apuntes](02-Primeros-Pasos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=4045s)]
+- [x] **12 - Ejercicios: Primeros Pasos** 🏋️‍♂️ [[Ejercicios](02-Primeros-Pasos/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=4421s)]
+
+---
+
+## 📁 Gestión de Archivos y Directorios
+
+- [x] **13 - Sistema de Archivos Unix** 📄 [[Apuntes](03-Gestion-Archivos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=4595s)]
+- [x] **14 - Manipulación de Archivos y Directorios** 📄 [[Apuntes](03-Gestion-Archivos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=5045s)]
+- [x] **15 - Wildcards (Comodines)** 📄 [[Apuntes](03-Gestion-Archivos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=6332s)]
+- [x] **16 - Listados Avanzados (Tree, Find)** 📄 [[Apuntes](03-Gestion-Archivos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=6945s)]
+- [x] **17 - Ejercicios: Gestión de Archivos** 🏋️‍♂️ [[Ejercicios](03-Gestion-Archivos/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=7496s)]
+
+---
+
+## ⚡ Comandos Avanzados y Redirecciones
+
+- [x] **18 - Lectura de Archivos** 📄 [[Apuntes](04-Comandos-Avanzados/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=7583s)]
+- [x] **19 - Búsqueda y Recuento (Grep, WC)** 📄 [[Apuntes](04-Comandos-Avanzados/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=8182s)]
+- [x] **20 - Redirecciones y Pipes** 📄 [[Apuntes](04-Comandos-Avanzados/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=8496s)]
+- [x] **21 - Variables de Entorno** 📄 [[Apuntes](04-Comandos-Avanzados/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=8917s)]
+- [x] **22 - Ejercicios: Comandos Avanzados** 🏋️‍♂️ [[Ejercicios](04-Comandos-Avanzados/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=9337s)]
+
+---
+
+## 📝 Editores de Texto Básicos
+
+- [x] **23 - Editores Básicos** 📄 [[Apuntes](05-Editores-Basicos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=9437s)]
+- [x] **24 - Editor Nano** 📄 [[Apuntes](05-Editores-Basicos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=9707s)]
+- [x] **25 - Editor Vim** 📄 [[Apuntes](05-Editores-Basicos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=10106s)]
+- [x] **26 - Otros Editores (Neovim / Emacs)** 📄 [[Apuntes](05-Editores-Basicos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=10649s)]
+- [x] **27 - Ejercicios: Editores Básicos** 🏋️‍♂️ [[Ejercicios](05-Editores-Basicos/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=10829s)]
+
+---
+
+## 🛡️ Administración del Sistema y Permisos
+
+- [x] **28 - Tipos de Permisos y Usuarios** 📄 [[Apuntes](06-Administracion-Permisos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=10885s)]
+- [x] **29 - Anatomía de los Permisos** 📄 [[Apuntes](06-Administracion-Permisos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=11116s)]
+- [x] **30 - Modificación de Permisos (Chmod)** 📄 [[Apuntes](06-Administracion-Permisos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=11408s)]
+- [x] **31 - Máscara de Permisos (Umask)** 📄 [[Apuntes](06-Administracion-Permisos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=11986s)]
+- [x] **32 - Superusuario (Sudo)** 📄 [[Apuntes](06-Administracion-Permisos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=12633s)]
+- [x] **33 - Ejercicios: Administración** 🏋️‍♂️ [[Ejercicios](06-Administracion-Permisos/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=12765s)]
+
+---
+
+## ⚙️ Gestión de Procesos y Alias
+
+- [x] **34 - Procesos del Sistema** 📄 [[Apuntes](07-Gestion-Procesos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=12822s)]
+- [x] **35 - Trabajos en Segundo Plano (Jobs)** 📄 [[Apuntes](07-Gestion-Procesos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=13360s)]
+- [x] **36 - Historial de Comandos** 📄 [[Apuntes](07-Gestion-Procesos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=13658s)]
+- [x] **37 - Creación de Alias** 📄 [[Apuntes](07-Gestion-Procesos/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=13803s)]
+- [x] **38 - Ejercicios: Procesos y Alias** 🏋️‍♂️ [[Ejercicios](07-Gestion-Procesos/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=13976s)]
+
+---
+
+## 📜 Introducción al Scripting
+
+- [x] **39 - Fundamentos de Scripting** 📄 [[Apuntes](08-Scripting/README.md#39---fundamentos-de-scripting)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=14029s)]
+- [x] **40 - Lectura de datos interactiva (read)** 📄 [[Apuntes](08-Scripting/README.md#40---lectura-de-datos-interactiva-read)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=14941s)]
+- [x] **41 - Argumentos y parámetros posicionales** 📄 [[Apuntes](08-Scripting/README.md#41---argumentos-y-parámetros-posicionales)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=15244s)]
+- [x] **42 - Laboratorio de Scripting** 🏋️‍♂️ [[Ejercicios](08-Scripting/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=15482s)]
+
+---
+
+## 🧠 Lógica de Programación en Bash
+
+- [x] **43 - Estructuras Condicionales (if, elif, else, case)** 📄 [[Apuntes](09-Logica/README.md#43-estructuras-condicionales-if-elif-else-case)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=15550s)]
+- [x] **44 - Bucles e Iteraciones (for, while, until)** 📄 [[Apuntes](09-Logica/README.md#44-bucles-e-iteraciones-for-while-until)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=16694s)]
+- [x] **45 - Funciones en Bash** 📄 [[Apuntes](09-Logica/README.md#45-funciones-en-bash)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=17297s)]
+- [x] **46 - Manejo Básico de Errores** 📄 [[Apuntes](09-Logica/README.md#46-manejo-básico-de-errores)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=17662s)]
+- [x] **47 - Ejercicios: Lógica de Programación** 🏋️‍♂️ [[Ejercicios](09-Logica/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=18012s)]
+
+---
+
+## ⏰ Automatización y Cron Jobs
+
+- [ ] **48 - Cron Jobs y Tareas Programadas** 📄 [[Apuntes](10-Cron-Jobs/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=18088s)]
+- [ ] **49 - Ejercicios: Cron Jobs** 🏋️‍♂️ [[Ejercicios](10-Cron-Jobs/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=19143s)]
+
+---
+
+## 🚀 Extras & Herramientas Avanzadas
+
+- [ ] **50 - Características principales de Warp** 📄 [[Apuntes](11-Extras/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=19227s)]
+- [ ] **51 - Zsh & Oh My Zsh** 📄 [[Apuntes](11-Extras/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=20846s)]
+- [ ] **Próximos Pasos** 📄 [[Apuntes](11-Extras/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=21011s)]
 
 ## 📂 Estructura Física del Repositorio
 
