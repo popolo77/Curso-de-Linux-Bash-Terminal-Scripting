@@ -15,6 +15,12 @@ Repositorio con apuntes, comandos, prácticas y ejercicios resueltos del [Curso 
 
 ---
 
+# 🐧 Curso COMPLETO de BASH, Linux Terminal & Scripting
+
+Repositorio con apuntes, comandos, prácticas y ejercicios resueltos del [Curso COMPLETO de BASH y la Terminal](https://www.youtube.com/watch?v=ABgLEKFhlZE) de **MoureDev (Brais Moure)**.
+
+---
+
 ## 🛠️ Configuración e Instalación
 
 - [x] **01 - Shell, Terminal y Bash** 📄 [[Apuntes](01-Configuracion/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=233s)]
@@ -109,16 +115,8 @@ Repositorio con apuntes, comandos, prácticas y ejercicios resueltos del [Curso 
 
 ## ⏰ Automatización y Cron Jobs
 
-- [ ] **48 - Cron Jobs y Tareas Programadas** 📄 [[Apuntes](10-Cron-Jobs/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=18088s)]
-- [ ] **49 - Ejercicios: Cron Jobs** 🏋️‍♂️ [[Ejercicios](10-Cron-Jobs/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=19143s)]
-
----
-
-## 🚀 Extras & Herramientas Avanzadas
-
-- [ ] **50 - Características principales de Warp** 📄 [[Apuntes](11-Extras/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=19227s)]
-- [ ] **51 - Zsh & Oh My Zsh** 📄 [[Apuntes](11-Extras/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=20846s)]
-- [ ] **Próximos Pasos** 📄 [[Apuntes](11-Extras/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=21011s)]
+- [x] **48 - Cron Jobs y Tareas Programadas** 📄 [[Apuntes](10-Cron-Jobs/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=18088s)]
+- [x] **49 - Ejercicios: Cron Jobs** 🏋️‍♂️ [[Ejercicios](10-Cron-Jobs/ejercicios/README.md)] | 🎥 [[Video](https://www.youtube.com/watch?v=ABgLEKFhlZE&t=19143s)]
 
 ## 📂 Estructura Física del Repositorio
 
@@ -148,4 +146,3 @@ La organización de carpetas está optimizada para separar la teoría de tus arc
 │   ├── functions_script.sh
 │   └── errors_script.sh
 ├── 10-Cron-Jobs/
-└── 11-Extras/
